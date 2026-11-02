@@ -108,7 +108,7 @@ Predicting-Airline-Satisfaction/
 |-- requirements.txt
 |-- .gitignore
 |-- README.md
-`-- submission.csv               # Se genera en notebook 04 (no subir a Git)
+`-- submission.csv               
 ```
 
 Los notebooks del EDA pueden generar otras imágenes dentro de `images/`.
